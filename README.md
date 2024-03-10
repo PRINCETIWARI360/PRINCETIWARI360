@@ -1,0 +1,9 @@
+-  Hi, I’m @PRINCETIWARI360
+-  I’m interested in java programing.
+-  I’m currently learning java
+-  I’m looking to IT job opportunities
+-  How to reach me through:-
+-  insta:-prince_tiwari_360
+-  X:-princeT45341984
+-  Call:-6203811578
+-  Pronouns: Prince(He).
