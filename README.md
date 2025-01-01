@@ -4,6 +4,6 @@
 -  I’m looking to IT job opportunities
 -  How to reach me through:-
 -  insta:-prince_tiwari_360
--  X:-princeT45341984
+-  X:-PrinceTiwariBR
 -  Call:-6203811578
 -  Pronouns: Prince(He).
