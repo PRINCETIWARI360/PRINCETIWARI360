@@ -2,10 +2,10 @@
   <img src="./Banrrr.png" width="100%" alt="Prince Tiwari Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Prince Tiwari</h1>
+<h1 align="center">Hi , I'm Prince Tiwari</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack | Java Developer
+ Full Stack Developer | MERN Stack | Java Developer
 </h3>
 
 <p align="center">
@@ -20,20 +20,20 @@ Building scalable, responsive and modern web applications.
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-- 🎓 MCA Student at Galgotias University
-- 💼 Full Stack Developer
-- 🌱 Currently learning Advanced MERN Stack & System Design
-- 💻 Passionate about building scalable web applications
-- ☕ Java + MERN Stack Enthusiast
-- 📧 Email: **tiwariprince340@gmail.com**
-- 🌐 Portfolio: https://princetiwari360.github.io/PR/
-- 💼 LinkedIn: https://www.linkedin.com/in/prince-tiwari-662084233/
+-  MCA Student at Galgotias University
+-  Full Stack Developer
+-  Currently learning Advanced MERN Stack & System Design
+-  Passionate about building scalable web applications
+-  Java + MERN Stack Enthusiast
+-  Email: **tiwariprince340@gmail.com**
+-  Portfolio: https://princetiwari360.github.io/PR/
+-  LinkedIn: https://www.linkedin.com/in/prince-tiwari-662084233/
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -43,35 +43,35 @@ Building scalable, responsive and modern web applications.
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-## 🌐 Developer Portfolio
+##  Developer Portfolio
 
 Modern responsive portfolio website.
 
-🔗 https://princetiwari360.github.io/PR/
+ https://princetiwari360.github.io/PR/
 
 ---
 
-## 🛒 MERN Ecommerce
+##  MERN Ecommerce
 
 Responsive ecommerce application built using React, Node.js, Express.js and MongoDB.
 
 ---
 
-## 💻 FullStackMaster
+##  FullStackMaster
 
 Learning platform with responsive UI and modern design.
 
 ---
 
-## 🏥 Healthcare Application
+##  Healthcare Application
 
 Healthcare Management System built using Java technologies.
 
 ---
 
-# 📊 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -81,7 +81,7 @@ Healthcare Management System built using Java technologies.
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -91,7 +91,7 @@ Healthcare Management System built using Java technologies.
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
 
@@ -101,7 +101,7 @@ Healthcare Management System built using Java technologies.
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -121,7 +121,7 @@ Healthcare Management System built using Java technologies.
 
 ---
 
-<h2 align="center">💙 Thanks for Visiting My GitHub Profile 💙</h2>
+<h2 align="center"> Thanks for Visiting My GitHub Profile </h2>
 
 <p align="center">
 
