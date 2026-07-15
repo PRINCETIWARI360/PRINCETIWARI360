@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Banrrr.png" width="100%" alt="Prince Tiwari Banner">
+  <img src="./Banrrr.png" width="100%" alt="Prince Tiwari Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prince Tiwari</h1>
@@ -20,13 +20,13 @@ Building scalable, responsive and modern web applications.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 MCA Student at Galgotias University
 - 💼 Full Stack Developer
 - 🌱 Currently learning Advanced MERN Stack & System Design
-- 💻 Love building scalable web applications
-- ⚡ Java + MERN Stack Enthusiast
+- 💻 Passionate about building scalable web applications
+- ☕ Java + MERN Stack Enthusiast
 - 📧 Email: **tiwariprince340@gmail.com**
 - 🌐 Portfolio: https://princetiwari360.github.io/PR/
 - 💼 LinkedIn: https://www.linkedin.com/in/prince-tiwari-662084233/
@@ -55,27 +55,27 @@ Modern responsive portfolio website.
 
 ## 🛒 MERN Ecommerce
 
-React + Node + Express + MongoDB
+Responsive ecommerce application built using React, Node.js, Express.js and MongoDB.
 
 ---
 
 ## 💻 FullStackMaster
 
-Learning platform for developers.
+Learning platform with responsive UI and modern design.
 
 ---
 
 ## 🏥 Healthcare Application
 
-Java Desktop Application
+Healthcare Management System built using Java technologies.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=PRINCETIWARI360&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=PRINCETIWARI360&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -91,7 +91,17 @@ Java Desktop Application
 
 ---
 
-# 🤝 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/PRINCETIWARI360/PRINCETIWARI360/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -104,13 +114,17 @@ Java Desktop Application
 </a>
 
 <a href="mailto:tiwariprince340@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send_Mail-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my GitHub Profile ⭐
-</h3>
+<h2 align="center">💙 Thanks for Visiting My GitHub Profile 💙</h2>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=PRINCETIWARI360&color=blue&style=for-the-badge)
+
+</p>
