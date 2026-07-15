@@ -3,20 +3,33 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Java Developer</h3>
 
 <p align="center">
-Building scalable web applications with modern technologies.
+Building scalable, responsive and modern web applications.
 </p>
 
 <p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications+🚀)](https://git.io/typing-svg)
+
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=PRINCETIWARI360&label=Profile+Views&style=for-the-badge&color=0e75b6)
+
+</p>
+
+<p align="center">
+
 <a href="https://princetiwari360.github.io/PR/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prince-tiwari-662084233/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tiwariprince340@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-tiwariprince340%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -25,21 +38,20 @@ Building scalable web applications with modern technologies.
 
 # 👨‍💻 About Me
 
-- 🎓 MCA Student at Galgotias University
+- 🎓 MCA Student at **Galgotias University**
 - 💻 Full Stack Developer (MERN)
 - ☕ Java Developer
-- 🚀 Passionate about clean and scalable web applications
+- 🌱 Currently learning **System Design & Backend Architecture**
+- 🚀 Passionate about building scalable and responsive web applications
 - 📍 Delhi, India
-- 🌐 Portfolio: https://princetiwari360.github.io/PR/
-- 📧 Email: tiwariprince340@gmail.com
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,java,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,java,git,github,vscode,postman"/>
 
 </p>
 
@@ -47,40 +59,33 @@ Building scalable web applications with modern technologies.
 
 # 📌 Featured Projects
 
-## 🌐 Developer Portfolio
+### 🌐 Developer Portfolio
 
-Modern responsive portfolio website showcasing projects, certifications and skills.
+Modern responsive portfolio website showcasing projects, certifications and technical skills.
 
-🔗 Live Demo
-
-https://princetiwari360.github.io/PR/
+🔗 **Live:** https://princetiwari360.github.io/PR/
 
 ---
 
-## 🛒 MERN Ecommerce
+### 🛒 MERN Ecommerce
 
-Responsive Full Stack Ecommerce Application
-
-- React
-- Node.js
-- Express
-- MongoDB
+Responsive ecommerce application built using React, Node.js, Express.js and MongoDB.
 
 ---
 
-## 💻 FullStackMaster
+### 💻 FullStackMaster
 
-Learning Platform with modern UI.
-
----
-
-## 🏥 Healthcare Application
-
-Healthcare Management System.
+Learning platform with responsive UI and modern design.
 
 ---
 
-# 📊 GitHub Stats
+### 🏥 Healthcare Application
+
+Healthcare Management System built using Java technologies.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -102,16 +107,32 @@ Healthcare Management System.
 
 # 📈 Contribution Graph
 
+<p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRINCETIWARI360&theme=tokyo-night"/>
 
----
-
-# 📫 Connect With Me
-
-- 🌐 Portfolio → https://princetiwari360.github.io/PR/
-- 💼 LinkedIn → https://linkedin.com/in/prince-tiwari-662084233
-- 📧 Email → tiwariprince340@gmail.com
+</p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://princetiwari360.github.io/PR/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prince-tiwari-662084233/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tiwariprince340@gmail.com">
+<img src="https://img.shields.io/badge/Email-Send_Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my GitHub Profile ⭐</h3>
