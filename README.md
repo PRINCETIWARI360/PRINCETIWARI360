@@ -1,49 +1,37 @@
 <h1 align="center">Hi 👋, I'm Prince Tiwari</h1>
 
-<h3 align="center">
-Full Stack Developer (MERN) | Java Developer | MCA Student
-</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Java Developer</h3>
 
 <p align="center">
-Building scalable web applications and continuously learning modern technologies.
+Building scalable web applications with modern technologies.
 </p>
 
 <p align="center">
 <a href="https://princetiwari360.github.io/PR/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prince-tiwari-662084233/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tiwariprince340@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/PRINCETIWARI360">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 MCA Student at **Galgotias University**
-
-- 💻 Full Stack Web Developer (MERN)
-
+- 🎓 MCA Student at Galgotias University
+- 💻 Full Stack Developer (MERN)
 - ☕ Java Developer
-
-- 🌱 Currently learning Backend Architecture & System Design
-
-- 🚀 Passionate about building responsive, scalable and real-world applications
-
+- 🚀 Passionate about clean and scalable web applications
 - 📍 Delhi, India
-
-- 📫 Email:
-**tiwariprince340@gmail.com**
+- 🌐 Portfolio: https://princetiwari360.github.io/PR/
+- 📧 Email: tiwariprince340@gmail.com
 
 ---
 
@@ -59,44 +47,40 @@ Building scalable web applications and continuously learning modern technologies
 
 # 📌 Featured Projects
 
-### 🌐 Developer Portfolio
+## 🌐 Developer Portfolio
 
-Modern responsive portfolio showcasing projects, certifications and technical skills.
+Modern responsive portfolio website showcasing projects, certifications and skills.
 
-🔗 Live
+🔗 Live Demo
+
 https://princetiwari360.github.io/PR/
 
 ---
 
-### 🛒 MERN Ecommerce
+## 🛒 MERN Ecommerce
 
-Responsive ecommerce application with frontend and backend.
+Responsive Full Stack Ecommerce Application
 
-Tech Stack
-
-React
-
-Node.js
-
-Express
-
-MongoDB
+- React
+- Node.js
+- Express
+- MongoDB
 
 ---
 
-### 💻 FullStackMaster
+## 💻 FullStackMaster
 
-Learning platform with responsive UI and modern design.
-
----
-
-### 🏥 Healthcare Application
-
-Healthcare web application developed using Java technologies.
+Learning Platform with modern UI.
 
 ---
 
-# 📊 GitHub Statistics
+## 🏥 Healthcare Application
+
+Healthcare Management System.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -122,14 +106,12 @@ Healthcare web application developed using Java technologies.
 
 ---
 
-# 💬 Quote
+# 📫 Connect With Me
 
-> "Great software is built one commit at a time."
+- 🌐 Portfolio → https://princetiwari360.github.io/PR/
+- 💼 LinkedIn → https://linkedin.com/in/prince-tiwari-662084233
+- 📧 Email → tiwariprince340@gmail.com
 
 ---
 
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
