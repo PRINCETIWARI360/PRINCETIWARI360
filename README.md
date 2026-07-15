@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./Banrrr.png" width="100%" alt="Prince Tiwari Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Prince Tiwari</h1>
 
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Java Developer</h3>
