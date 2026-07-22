@@ -105,7 +105,7 @@ Healthcare Management System built using Java technologies.
 
 <p align="center">
 
-<a href="https://princetiwari360.in">
+<a href="https://princetiwari.in">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
