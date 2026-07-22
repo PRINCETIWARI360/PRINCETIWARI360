@@ -28,8 +28,8 @@ Building scalable, responsive and modern web applications.
 -  Passionate about building scalable web applications
 -  Java + MERN Stack Enthusiast
 -  Email: **tiwariprince340@gmail.com**
--  Portfolio: https://princetiwari360.github.io/PR/
--  LinkedIn: https://www.linkedin.com/in/prince-tiwari-662084233/
+-  Portfolio: https://princetiwari.in/
+-  LinkedIn: https://www.linkedin.com/in/princetiwariprincetiwari/
 
 ---
 
@@ -49,7 +49,7 @@ Building scalable, responsive and modern web applications.
 
 Modern responsive portfolio website.
 
- https://princetiwari360.github.io/PR/
+ https://princetiwari.in
 
 ---
 
@@ -105,11 +105,11 @@ Healthcare Management System built using Java technologies.
 
 <p align="center">
 
-<a href="https://princetiwari360.github.io/PR/">
+<a href="https://princetiwari360.in">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/prince-tiwari-662084233/">
+<a href="https://www.linkedin.com/in/princetiwariprincetiwari/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
 </a>
 
